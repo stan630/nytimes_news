@@ -1,0 +1,3 @@
+API_KEY = L4MHGoxqhtS5RBZehrErDllIRNF8yjyY
+
+API_URL = https://api.nytimes.com/svc/movies/v2/reviews/search.json?query=godfather&api-key=L4MHGoxqhtS5RBZehrErDllIRNF8yjyY
